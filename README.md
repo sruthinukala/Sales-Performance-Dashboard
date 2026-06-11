@@ -64,3 +64,36 @@ Time Analysis
 ## ✨ Report 2 - Regional Profitability Analysis
 
 ![Report 2 - Regional Profitability Analysis](Region_Performance.png)
+
+* The regional performance analysis was conducted across four regions: West, East, South, and Central.
+
+#### ➤ Overall Performance
+
+* The combined contribution of all regions resulted in total sales of ₹22.97L and total profit of ₹2.86L, producing an overall profit margin of 12.47%.
+
+* Although the business remains profitable, there is a significant gap between sales and profit, indicating opportunities to improve operational efficiency and profitability.
+
+#### ➤ Region-Wise Performance
+
+* West emerged as the best-performing region, generating sales of approximately ₹7.25L and achieving a profit margin of 14.95%. The region contributes the highest share of overall profitability and demonstrates strong business performance.
+
+* South delivered moderate performance with a healthy profit margin while maintaining relatively controlled discount levels compared to other regions.
+
+* East performed reasonably well and remains a potential area for further growth and profitability improvement.
+
+* Central was identified as the weakest-performing region, generating sales of approximately ₹5L while achieving a profit margin of only 7.92%.
+
+* The Central region also recorded the highest discount contribution at 35.77%, significantly higher than other regions.
+
+#### ➤ Key Insights
+
+* West serves as the strongest region and can be used as a benchmark for best practices across other regions.
+
+* East and South present opportunities for further profit growth through targeted sales and operational improvements.
+
+* Central requires immediate attention. The combination of high discount levels and low profit margins suggests that excessive discounting may be negatively impacting profitability.
+
+* A detailed review of discount policies, product mix, and pricing strategies within the Central region is recommended to improve overall business performance.
+
+
+## ✨ Report 3 - Regional Profitability Analysis
