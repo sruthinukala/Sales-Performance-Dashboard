@@ -1,4 +1,4 @@
-# Sales & Profit Analysis Dashboard
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0f84e173-90f3-47b3-8b88-d95d7bb441db" /># Sales & Profit Analysis Dashboard
 
 ## Project Overview
 
@@ -100,7 +100,9 @@ Time Analysis
 
 ![Report 3 - Sales & Profit Growth Analysis](YearWiseProfit.png)
 
-![Report 3 - Sales & Profit Growth Analysis](YearWiseSales.png)
+![Report 3 - Sales & Profit Growth Analysis](YearWIseSales.png)
+
+![Report 3 - Sales & Profit Growth Analysis](QuaterWIsePerformance.png)
 
 * Sales and profit trends were analyzed across four years, from 2014 to 2017.
 
