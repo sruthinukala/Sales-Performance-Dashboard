@@ -96,4 +96,40 @@ Time Analysis
 * A detailed review of discount policies, product mix, and pricing strategies within the Central region is recommended to improve overall business performance.
 
 
-## ✨ Report 3 - Regional Profitability Analysis
+### ✨ Report 3 - Sales & Profit Growth Analysis
+
+
+* Sales and profit trends were analyzed across four years, from 2014 to 2017.
+
+#### ➤ Overall Performance
+
+* The business demonstrated positive long-term growth in both sales and profit over the analysis period.
+
+* Although sales experienced a slight decline in 2015, profitability continued to improve, indicating better profit generation despite lower revenue growth.
+
+#### ➤ Year-over-Year Performance
+
+* 2016 was the strongest year, recording the highest profit growth of 32.74% and the highest profit margin of 13.43%.
+
+* 2017 continued to generate higher sales and profit compared to earlier years; however, profit growth slowed to 14.27%, indicating a moderation in growth momentum.
+
+#### ➤ Quarterly Performance
+
+* Q4 consistently emerged as the strongest-performing quarter across most years, contributing significantly to overall sales and profit.
+
+* An exception was observed in Q4 2017, where profit margin declined to 9.80%, making it the weakest quarter of that year.
+
+* Q1 2017 recorded the highest quarterly profit margin (19.09%) across the entire analysis period.
+
+#### ➤ Key Insights
+
+* The company has maintained a healthy growth trajectory in both sales and profitability.
+
+* 2016 represents the peak year in terms of profitability and operational performance.
+
+* The decline in Q4 2017 profit margin warrants further investigation, particularly regarding discounting, product mix, or operational costs during that period.
+
+* Continued monitoring of quarterly profitability trends can help identify opportunities to sustain long-term business growth.
+
+###
+
