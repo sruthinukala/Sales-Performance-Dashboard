@@ -63,4 +63,4 @@ Time Analysis
 
 * Furniture requires immediate attention. The category receives the highest average discount (17.39%) while generating the lowest profit margin (2.49%). A detailed review of pricing strategies, discount policies, and loss-making subcategories within Furniture is recommended to improve profitability.
 
-
+## Report 2 - Regional Profitability Analysis
