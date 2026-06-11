@@ -42,3 +42,4 @@ Microsoft Excel, Power Query, Power Pivot, DAX(Data Analysis Expressions), Pivot
 - Product Performance Analysis
 - Discount Impact Analysis
 
+## Dashboard
