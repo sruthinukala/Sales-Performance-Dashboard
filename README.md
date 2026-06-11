@@ -168,3 +168,12 @@ Time Analysis
 - A small number of products are responsible for a significant portion of overall losses.
 - These products should be reviewed for pricing strategy, discount policies, and product-level profitability.
 
+## Business Recommendations
+
+- Expand investment in Technology products, as they generate the highest profit and profit margins.
+- Maintain and strengthen the performance of Office Supplies through continued sales and operational efficiency.
+- Review pricing and discount strategies within the Furniture category to improve profitability.
+- Investigate the Central region's high discount levels and low profit margins to identify opportunities for improvement.
+- Conduct detailed product-level reviews for Machines and Tables, as they are the largest contributors to overall losses.
+- Reassess pricing, discount policies, and product viability for the Top 10 loss-making products.
+
