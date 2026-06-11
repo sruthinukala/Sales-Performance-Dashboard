@@ -33,11 +33,9 @@ Time Analysis
 
 ## Insights & Finding: 
 
-## Report 1 - Category Performance Analysis
+## ✨ Report 1 - Category Performance Analysis
 
 ![Report 1 - Category Performance Analysis](Category_Analysis.png)
-
-### ✨ Report 1 - Category Performance Analysis
 
 * The category performance analysis was conducted across three categories: Furniture, Office Supplies, and Technology.
 
@@ -63,4 +61,4 @@ Time Analysis
 
 * Furniture requires immediate attention. The category receives the highest average discount (17.39%) while generating the lowest profit margin (2.49%). A detailed review of pricing strategies, discount policies, and loss-making subcategories within Furniture is recommended to improve profitability.
 
-## Report 2 - Regional Profitability Analysis
+## ✨ Report 2 - Regional Profitability Analysis
