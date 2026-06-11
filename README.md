@@ -20,28 +20,20 @@ Microsoft Excel, Power Query, Power Pivot, DAX(Data Analysis Expressions), Pivot
 6. What business areas require improvement?
 
 ## Analysis Performed
+Category Analysis
+Regional Analysis
+Customer & Product Analysis
+Loss Analysis
+Time Analysis
 
-### Time Analysis
-- Year-over-Year Sales Growth
-- Year-over-Year Profit Growth
-
-### Category Analysis
-- Sales by Category
-- Profit by Category
-- Profit Margin Analysis
-
-### Regional Analysis
-- Regional Profitability Comparison
-
-### Loss Analysis
-- Identification of Loss-Making Subcategories
-- Loss Contribution Analysis
-
-### Customer & Product Analysis
-- Customer Segmentation
-- Product Performance Analysis
-- Discount Impact Analysis
 
 ## Dashboard
 
 ![Dashboard](Sales_Dashboard.png)
+
+## Insights & Finding: 
+
+## Report 1 - Category Performance Analysis
+
+![Report 1](Category_Analysis.png)
+
