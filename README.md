@@ -1,5 +1,3 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0f84e173-90f3-47b3-8b88-d95d7bb441db" /># Sales & Profit Analysis Dashboard
-
 ## Project Overview
 
 The objective of this project was to analyze sales performance, profitability trends, regional performance, and loss-making products using the Superstore dataset.
