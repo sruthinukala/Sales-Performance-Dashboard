@@ -99,7 +99,9 @@ Time Analysis
 ### ✨ Report 3 - Sales & Profit Growth Analysis
 
 ![Report 3 - Sales & Profit Growth Analysis](YearWiseSales.png)
+
 ![Report 3 - Sales & Profit Growth Analysis](YearWiseProfit.png)
+
 ![Report 3 - Sales & Profit Growth Analysis](QuaterWisePerformance.png)
 
 * Sales and profit trends were analyzed across four years, from 2014 to 2017.
