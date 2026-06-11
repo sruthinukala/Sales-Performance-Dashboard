@@ -134,5 +134,34 @@ Time Analysis
 
 * Continued monitoring of quarterly profitability trends can help identify opportunities to sustain long-term business growth.
 
-###
+### ✨ Report 4 - Loss-Making Subcategory Analysis
+
+#### ➤ Top Loss Contributors
+
+- Machines were the largest loss-making subcategory, generating a loss of ₹13.99K.
+- Tables ranked second, contributing a loss of ₹11.03K.
+- Bookcases and Phones also generated notable losses of ₹3.03K and ₹3.61K respectively.
+
+#### ➤ Key Insights
+
+- Machines and Tables together contributed over ₹25K in losses, making them the primary drivers of negative profitability.
+- Furniture accounted for the highest discount contribution (22.37%) among the loss-making categories.
+- Losses are concentrated in a few subcategories, indicating the need for targeted pricing, discount, and profitability reviews.
+
+### ✨ Report 5 - Top 10 Loss-Making Products
+
+#### ➤ Top Loss Contributors
+
+- Cubify CubeX 3D Printer Double Head Print recorded the highest loss of ₹8.88K.
+- Lexmark MX611dhe Monochrome Laser Printer generated a loss of ₹4.59K.
+- Cubify CubeX 3D Printer Triple Head Print contributed a loss of ₹3.84K.
+- Chromcraft Bull-Nose Wood Oval Conference Tables & Bases recorded a loss of ₹2.88K.
+- Bush Advantage Collection Racetrack Conference Table generated a loss of ₹1.93K.
+
+#### ➤ Key Insights
+
+- The Top 10 loss-making products collectively contributed losses of ₹29.46K.
+- Several high-loss products belong to the Machines and Tables subcategories, confirming the findings from the subcategory analysis.
+- A small number of products are responsible for a significant portion of overall losses.
+- These products should be reviewed for pricing strategy, discount policies, and product-level profitability.
 
