@@ -136,6 +136,7 @@ Time Analysis
 
 ### ✨ Report 4 - Loss-Making Subcategory Analysis
 
+![Report 4 - Loss-Making Subcategory Analysis](LossAnalysis.png)
 #### ➤ Top Loss Contributors
 
 - Machines were the largest loss-making subcategory, generating a loss of ₹13.99K.
@@ -149,6 +150,8 @@ Time Analysis
 - Losses are concentrated in a few subcategories, indicating the need for targeted pricing, discount, and profitability reviews.
 
 ### ✨ Report 5 - Top 10 Loss-Making Products
+
+![Report 5 - Top 10 Loss-Making Products](Top10LossProducts.png)
 
 #### ➤ Top Loss Contributors
 
