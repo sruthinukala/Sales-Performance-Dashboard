@@ -44,4 +44,4 @@ Microsoft Excel, Power Query, Power Pivot, DAX(Data Analysis Expressions), Pivot
 
 ## Dashboard
 
-
+![Dashboard](Sales_Dashboard.png)
