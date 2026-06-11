@@ -35,5 +35,5 @@ Time Analysis
 
 ## Report 1 - Category Performance Analysis
 
-![Report 1](Category_Analysis.png)
+![Report 1 - Category Performance Analysis](Category_Analysis.png)
 
